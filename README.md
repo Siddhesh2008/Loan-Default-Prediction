@@ -219,7 +219,7 @@ The project also showed that **loan-to-income ratio, income, interest rate, loan
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/Siddhesh2008/Loan-Default-Prediction
 cd Loan-Default-Prediction
 ```
 
